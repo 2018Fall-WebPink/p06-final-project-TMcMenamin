@@ -1,0 +1,89 @@
+/* Name:Tess McMenamin
+*  Date: January 18th 2019
+*  Lab: Inspirational Women- Marilyn Monroe */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{ width: 95%;
+    background-color: aquamarine;
+    margin:10px auto;
+    border: 5px solid white;
+}
+
+h1{
+    background-color: aquamarine;
+    color: silver;
+    text-align:center;
+    padding:10px;
+}
+
+#sidebarA{
+    width:30%;
+    float:left;
+    border:5px solid white;
+    color: gray;
+    background-color: aquamarine;
+    height:700px;
+}
+
+#Marilyn {
+    float:clear;
+    height:200;
+    width: 200px;
+    margin:10px;
+    border:4px solid white;
+    padding:3px;
+}
+
+#Skirtup {float:clear;
+    height:200;
+    width: 200px;
+    margin:10px;
+    border:4px solid white;
+    padding:3px;}
+
+#Dress {float:clear;
+    height:200;
+    width: 200px;
+    margin:10px;
+    border:4px solid white;
+    padding:3px;}
+
+
+main{
+    width:30%;
+    float:left;
+    color: gray;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-bottom-right-radius: 5px solid white;
+    background-color: aquamarine;
+    height:700px;
+} 
+
+#sidebarB {
+    width: 30%;
+    float:right;
+    border:5px solid white;
+    color: gray;
+    background-color: aquamarine;
+    height: 700px; 
+}
+
+ul{padding-top: 5px;
+   padding-left: 20px;}
+
+li{padding-bottom: 10px}
+
+footer {
+    clear:both;
+    background-color: aquamarine;
+}
+
+#h1footer{
+    color:silver;
+    padding:5px
+}
